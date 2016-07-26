@@ -1,6 +1,6 @@
 # stark
 
-Stark is a web content-filtering applications designed to run in devices with 
+Stark is a web content-filtering application designed to run in devices with 
 low resources such as the raspberry pi.
 
 It is born as a pet project to smash golang for fun and profit. Also as a
